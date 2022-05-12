@@ -17,5 +17,7 @@ Collection of solutions to the quiz/hands-on exercises/assignments in data scien
 
 - SupervisedMachineLearning-2.ipynb: evaluate and select a suitable supervised model to predict Property Maintenance Fines data (blight ticket). The selected model should have at least 0.7 of AUROC 
 
+- networkgraph.ipynb: create and manipulate graph
+
 
 more to come...
